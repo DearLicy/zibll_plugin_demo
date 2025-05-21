@@ -1,0 +1,2 @@
+# zibll_plugin_demo
+这是一个为子比主题设计的WordPress功能扩展插件，提供自定义设置选项和扩展功能。适合开发者学习WordPress插件开发的基础结构。
